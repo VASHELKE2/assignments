@@ -1,1 +1,1 @@
-assignments repository some another change!
+minor changes made in Readme file
