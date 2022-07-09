@@ -1,5 +1,4 @@
 <<<<<<< HEAD
 minor changes made in Readme file
-=======
-This is readme file of css-branch
->>>>>>> css-assignments
+again changes in raedme file belonging to js assignments 
+======
